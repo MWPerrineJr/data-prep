@@ -2,9 +2,6 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"path": "../The-Data-Wrangling-Workshop"
 		}
 	],
 	"settings": {}
